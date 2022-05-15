@@ -15,7 +15,7 @@ Steps to Execute the Program:
 1.  To Execute cut.exe
 2.  To Enter the Number of Vertices : Eg : 5
 3.  To Enter the Number of Edges : Eg : 10
-4.  To Enter Diagonal Elements for given number of Vertices. (Please use the given sample values (given bullet number 5) to copy paste if needed)
+4.  To Enter Diagonal Elements for given number of Vertices. (For easy testing purpose, Please use the given sample values (given bullet number 5) to copy paste if needed)
 
 Enter Edge 0 Vertices :
 
